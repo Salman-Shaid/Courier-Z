@@ -1,10 +1,8 @@
 ## Parcel Management System: Courier-Z
 
-## All Links :
+## Links :
 
 - **Live Site Link:** https://assignment12-fe277.web.app/
-- **Client Side Github Repository Link:** https://github.com/Programming-Hero-Web-Course4/b10a12-client-side-Salman-Shaid
-- **Server Side Github Repository Link:** https://github.com/Programming-Hero-Web-Course4/b10a12-server-side-Salman-Shaid
 
 
 
