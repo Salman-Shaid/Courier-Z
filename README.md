@@ -26,7 +26,9 @@ A Full Stack Parcel Management System built using the **MERN stack** (MongoDB, E
 
 ## 🧑‍💻 ScreenShoots
 <div align="center">
-  <img  src="https://github.com/Salman-Shaid/Salman-Shaid/blob/main/profile%20banner.png"  />
+  <img  src="https://github.com/Salman-Shaid/Courier-Z/blob/main/client/src/assets/Screenshot%202025-02-05%20174436.png"  />
+  <img  src="https://github.com/Salman-Shaid/Courier-Z/blob/main/client/src/assets/Screenshot%202025-02-05%20174504.png"  />
+  <img  src="https://github.com/Salman-Shaid/Courier-Z/blob/main/client/src/assets/Screenshot%202025-02-05%20174517.png"  />
 </div>
 ## 🧑‍💻 Setup & Installation
 
